@@ -1,0 +1,11 @@
+{
+  "name": "basic-auth-ware",
+  "version": "1.0.0",
+  "description": "Simple HTTP basic auth middleware for Express",
+  "author": "Nadav Ivgi",
+  "license": "MIT",
+  "repository": "https://github.com/shesek/basic-auth-ware",
+  "dependencies": {
+    "basic-auth": "^2.0.0"
+  }
+}
